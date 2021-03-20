@@ -1,0 +1,21 @@
+.app-header {
+    background-color: #263238;
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  .logoTitle {
+    align-self: center;
+    font-size: 18px;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .account-menu {
+    background-color: #dfdfdf;
+    padding: 5px;
+  }
+  
