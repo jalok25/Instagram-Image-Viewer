@@ -8,7 +8,7 @@ import Hashtags from "../../common/media/Hashtags";
 import Like from "../../common/media/Like";
 import Comments from "../../common/media/Comments";
 import AddComment from "../../common/media/AddComment";
-import ProfilePic from "../../assets/ProfilePic.jpg";
+import ProfilePic from "../../assets/ProfilePic.svg";
 import "../../common/Common.css";
 
 //lib resources
