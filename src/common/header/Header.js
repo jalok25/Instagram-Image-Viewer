@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import ProfilePic from "../../assets/ProfilePic.jpg";
+import ProfilePic from "../../assets/ProfilePic.svg";
 
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
